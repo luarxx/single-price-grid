@@ -1,0 +1,53 @@
+.coluna_1 {
+    background-color: white;
+}
+
+.coluna_2 {
+    background-color: var(--Cyan) ;
+}
+
+.coluna_3 {
+    background-color: rgb(79, 182, 182) ;
+}
+
+h1 {
+    color: var(--Cyan);
+    font-weight: 700;
+    font-size: 20px;
+}
+
+h2 {
+    color: var(--Bright-Yellow);
+    font-weight: 700;
+}
+
+h3 {
+    color: var(--Light-Gray);
+    font-weight: 700;
+    font-size: 20px;
+
+}
+
+p {
+    color: var(--Grayish-Blue);
+    font-weight: 400;
+    font-size: 15px;
+}
+
+span {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+button {
+    background-color: var(--Bright-Yellow);
+    color: var(--Cyan);
+    font-weight: 700;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
